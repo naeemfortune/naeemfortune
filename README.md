@@ -5,7 +5,6 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Azure](https://github.com/naeemfortune/create-vm)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/naeemfortune/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
